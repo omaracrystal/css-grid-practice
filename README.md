@@ -1,33 +1,15 @@
-# HTML SASS Boilerpate
+# CSS Grid Practice
 
-## Sass folders structure**
-```
-- global
-    - base
-    - helpers
-    - mixins
-    - variables
-- site
-    - components
-        - base-components
-        - component-name.scss
-    - pages
-        - partials
-        - page-name.scss
-		
-```
+## Description:
+Practice grid layout with CSS Grid compared to flexbox
 
-** Edit to your liking
+## Technologies:
+- Sass
+- HTML5
+- CSS Grid
+- Flex Box
+- Gulp & Browserify
 
-### To get started
-
-```
-git clone https://github.com/omaracrystal/html-sass-boilerplate.git
-```
-```
-npm install
-```
-```
-npm start
-```
-
+**Results**
+:----------------------------------:
+![](/app/assets/img/desktop-results.png)
