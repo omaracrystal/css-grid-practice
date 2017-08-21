@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50c16315-f277-4577-8998-921f062e8bca" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/css/main.css" afterPath="$PROJECT_DIR$/app/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/css/main.min.css" afterPath="$PROJECT_DIR$/app/assets/css/main.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/global/base/_base.scss" afterPath="$PROJECT_DIR$/src/scss/global/base/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/global/helpers/_helpers.scss" afterPath="$PROJECT_DIR$/src/scss/global/helpers/_helpers.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/global/variables/_variables.scss" afterPath="$PROJECT_DIR$/src/scss/global/variables/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/site/_media-queries.scss" afterPath="$PROJECT_DIR$/src/scss/site/_media-queries.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/site/components/_component-grid-travel.scss" afterPath="$PROJECT_DIR$/src/scss/site/components/_component-grid-travel.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_component-grid-travel.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_component-grid-travel.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/site/components/_component-grid-travel.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="306">
+              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -110,10 +113,10 @@
         <option value="$PROJECT_DIR$/src/scss/site/components/base-components/_base-components.scss" />
         <option value="$PROJECT_DIR$/src/scss/global/base/_base.scss" />
         <option value="$PROJECT_DIR$/src/scss/global/variables/_variables.scss" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/src/scss/global/helpers/_helpers.scss" />
         <option value="$PROJECT_DIR$/src/scss/site/_media-queries.scss" />
         <option value="$PROJECT_DIR$/src/scss/site/components/_component-grid-travel.scss" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -367,12 +370,12 @@
       <workItem from="1502040569627" duration="2559000" />
       <workItem from="1502044925809" duration="273000" />
       <workItem from="1503296711112" duration="4051000" />
-      <workItem from="1503301648714" duration="8416000" />
+      <workItem from="1503301648714" duration="8848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34290000" />
+    <option name="totallyTimeSpent" value="34722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="340" y="23" width="939" height="700" extended-state="0" />
@@ -615,25 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/global/variables/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -654,14 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -690,10 +666,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/site/components/_component-grid-travel.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="306">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
           <folding />
         </state>
       </provider>
