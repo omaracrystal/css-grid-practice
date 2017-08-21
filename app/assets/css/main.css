@@ -83,11 +83,10 @@ main {
   margin: 10rem auto;
   text-align: center; }
 
-.btn-primary {
-  font-size: 15px;
-  font-size: 1.5rem;
-  padding: 10px 20px;
-  padding: 1rem 2rem; }
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
 
 /* 
 
@@ -115,25 +114,32 @@ example of base components:
 5. etc
 
 */
-/*
+.btn-primary {
+  font-size: 15px;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  padding: 1rem 2rem; }
 
-Rename this file that corresponds with the name of the component. 
-This is wheere you will find regular components or the "molecules / organisms" in the overall page layout. 
+.travel-grid-snapshot {
+  width: 50%;
+  height: auto; }
 
-These components are built off the base components
+.component-grid-travel {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1.6fr 1.4fr 2fr 2fr;
+      grid-template-columns: 1fr 1.6fr 1.4fr 2fr 2fr;
+  -ms-grid-rows: 1.5fr 1.1fr 1.5fr 1.9fr;
+      grid-template-rows: 1.5fr 1.1fr 1.5fr 1.9fr;
+  grid-gap: 5px;
+  grid-gap: 0.5rem;
+  min-height: 100vh;
+  margin: 50px;
+  margin: 5rem; }
 
-Some examples include:
-1. All Forms
-    - Login Form
-    - Contanct Form
-    - etc
-2. Menus 
-   - main menu
-   - side menu
-   - etc
-6. Search Boxes
+.component-grid-travel li {
+  background-color: #25b48d; }
 
-*/
 /* 
 
 Partials are essensial pieces that make up the overall page. 

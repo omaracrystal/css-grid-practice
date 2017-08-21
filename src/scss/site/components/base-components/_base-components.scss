@@ -12,3 +12,8 @@ example of base components:
 5. etc
 
 */
+
+.btn-primary {
+  @include rem(font-size, $font-md);
+  @include rem(padding, 10px 20px);
+}

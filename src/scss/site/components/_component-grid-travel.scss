@@ -1,0 +1,17 @@
+.travel-grid-snapshot {
+  width: 50%;
+  height: auto;
+}
+
+.component-grid-travel {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr 1.4fr 2fr 2fr;
+  grid-template-rows: 1.5fr 1.1fr 1.5fr 1.9fr;
+  @include rem(grid-gap, 5px);
+  min-height: 100vh;
+  @include rem(margin, 50px);
+
+  li {
+    background-color: #25b48d;
+  }
+}
