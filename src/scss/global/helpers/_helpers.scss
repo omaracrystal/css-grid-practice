@@ -10,3 +10,23 @@ Examples:
 etc ...
 
 */
+
+.page-wrapper {
+  margin: auto;
+  @include rem(max-width, 1000px);
+  @include rem(padding, 10px);
+}
+
+.flex-container {
+  justify-content: center;
+}
+
+.side-by-side {
+  display: flex;
+  flex-direction: row;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+}

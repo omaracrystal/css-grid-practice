@@ -5,5 +5,25 @@
 
 //mobile
 @media (max-width: $mq-mobile) {
+    h1 {
+      @include rem(font-size, $font-h1/2);
+    }
 
+    h2 {
+      @include rem(font-size, $font-h2/2);
+    }
+
+    .main-header {
+      @include rem(margin-bottom, 10px);
+    }
+
+    .side-by-side {
+      flex-direction: column;
+    }
+
+    .component-grid-travel {
+      @include rem(margin, 10px);
+      @include rem(grid-gap, 5px);
+      min-height: 70vw;
+    }
 }

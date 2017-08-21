@@ -1,18 +1,47 @@
+.main-header {
+  @include rem(margin-bottom, 50px);
+}
+
 .travel-grid-snapshot {
-  width: 50%;
+  width: 90%;
+  max-width: 500px;
   height: auto;
+}
+
+#step-3-container {
+  @include rem(margin-top, 50px);
 }
 
 .component-grid-travel {
   display: grid;
-  grid-template-columns: 1fr 1.6fr 1.4fr 2fr 2fr;
-  grid-template-rows: 1.5fr 1.1fr 1.5fr 1.9fr;
-  @include rem(grid-gap, 5px);
-  min-height: 100vh;
-  @include rem(margin, 50px);
+  grid-template-columns:
+          minmax(1fr, auto)
+          minmax(1.6fr, auto)
+          minmax(1.4fr, auto)
+          minmax(2fr, auto)
+          minmax(2fr, auto);
+  grid-template-rows:
+          minmax(1.5fr, auto)
+          minmax(1.1fr, auto)
+          minmax(1.5fr, auto)
+          minmax(1.9fr, auto);
+  @include rem(grid-gap, 10px);
+  grid-auto-flow: dense;
+  min-height: 50vw;
+  min-width: 75vw;
+  max-width: 900px;
+  margin: auto;
 
   li {
     background-color: #25b48d;
+  }
+
+  .travel-pic {
+
+  }
+
+  .grey-box {
+    background-color: $grey-box;
   }
 
   #travel-pic-1 {
