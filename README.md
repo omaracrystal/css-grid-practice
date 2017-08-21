@@ -11,5 +11,12 @@ Practice grid layout with CSS Grid compared to flexbox
 - Gulp & Browserify
 
 **Results**
+
+**Desktop**
 :----------------------------------:
 ![](/app/assets/img/desktop-results.png)
+
+
+**Mobilep**
+:----------------------------------:
+![](/app/assets/img/mobile-results.png)
