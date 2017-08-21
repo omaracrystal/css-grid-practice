@@ -17,6 +17,6 @@ Practice grid layout with CSS Grid compared to flexbox
 ![](/app/assets/img/desktop-results.png)
 
 
-**Mobilep**
+**Mobile**
 :----------------------------------:
 ![](/app/assets/img/mobile-results.png)
